@@ -1,0 +1,9 @@
+.opnode-item path { stroke-width: 0; stroke: #000; fill: #fff; }
+.fused path {stroke-width: 0; stroke: #000; fill: #fef3cc; }
+.opnode-child-item path { stroke-width: 0; stroke: #000; fill: #fff; }
+.opnode-item text {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    font-weight: 500;
+    text-rendering: geometricPrecision;
+  }
